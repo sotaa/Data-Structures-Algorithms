@@ -1,0 +1,9 @@
+Good code can be described two things:
+1-Readable
+2-Scalable(BigO measure Scalable Code)
+
+BigO notaion is the language we use talking about how long an algorithm takes to run
+
+Time complexity(Speed) is how long it takes the algorithm to run 
+and
+Space complexity(Memory) is the Memory that is requierd by the algorithm.
